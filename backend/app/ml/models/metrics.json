@@ -1,0 +1,18 @@
+{
+  "model_type": "TF-IDF + Logistic Regression",
+  "dataset": "demo_scam_dataset.csv (synthetic demo data for evaluation)",
+  "accuracy": 0.8571428571428571,
+  "precision": 0.75,
+  "recall": 1.0,
+  "f1_score": 0.8571428571428571,
+  "confusion_matrix": [
+    [
+      3,
+      1
+    ],
+    [
+      0,
+      3
+    ]
+  ]
+}
